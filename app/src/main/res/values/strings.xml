@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BuildConfig Demo</string>
+    <string name="label_login">Login</string>
+    <string name="label_profile">Profile</string>
+    <string name="label_logout">Logout</string>
+    <string name="msg_login_failed">Login failed, please try again later!</string>
+    <string name="label_back">Back</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Password</string>
+</resources>
